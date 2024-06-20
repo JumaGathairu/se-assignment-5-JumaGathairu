@@ -180,7 +180,15 @@ Answer the following questions based on your understanding of the installation a
              - Open the Source Control view by clicking the Source Control icon in the Activity Bar.
              - Click "Initialize Repository" to create a new Git repository.
 
-       2. 
+       2. Making Commits:
+             - Stage changes by clicking the + next to the files.
+             - Enter a commit message and click the checkmark to commit.
+      
+      3.  pushing Changes to GitHub:
+            - Add a remote repository
+            - Push changes using git push -u origin main/master(depending on) 
+              (depending on branch) 
+
 
           
 
