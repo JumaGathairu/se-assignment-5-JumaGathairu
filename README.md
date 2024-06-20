@@ -184,9 +184,10 @@ Answer the following questions based on your understanding of the installation a
              - Stage changes by clicking the + next to the files.
              - Enter a commit message and click the checkmark to commit.
       
-      3.  Add a remote repository: 
-             - git remote add origin .
-             - Push changes: git push -u origin main.
+      3.  pushing Changes to GitHub:
+            - Add a remote repository
+            - Push changes using git push -u origin main/master(depending on branch) 
+
 
           
 
