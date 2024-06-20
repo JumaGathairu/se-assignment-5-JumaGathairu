@@ -186,7 +186,8 @@ Answer the following questions based on your understanding of the installation a
       
       3.  pushing Changes to GitHub:
             - Add a remote repository
-            - Push changes using git push -u origin main/master(depending on branch) 
+            - Push changes using git push -u origin main/master(depending on) 
+              (depending on branch) 
 
 
           
